@@ -76,12 +76,12 @@ fun LoginScreen(
                         .padding(bottom = 32.dp)
                 )
 
-                // Username or Email field
+                // Email field
                 Column(
                     modifier = Modifier.fillMaxWidth()
                 ) {
                     Text(
-                        text = "Username or Email",
+                        text = "Email",
                         fontSize = 16.sp,
                         color = Color.Black
                     )
@@ -89,7 +89,7 @@ fun LoginScreen(
                     TextField(
                         value = email,
                         onValueChange = { email = it },
-                        placeholder = { Text("Type your username or Email", fontSize = 14.sp) },
+                        placeholder = { Text("Type your Email", fontSize = 14.sp) },
                         modifier = Modifier.fillMaxWidth(),
                         colors = TextFieldDefaults.colors(
                             focusedContainerColor = Color.Transparent,

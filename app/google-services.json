@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "351047910142",
-    "project_id": "kueater-swift",
-    "storage_bucket": "kueater-swift.firebasestorage.app"
+    "project_number": "278520099309",
+    "project_id": "mobile-dev-ku-eater",
+    "storage_bucket": "mobile-dev-ku-eater.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:351047910142:android:724dd8c18727821b315baf",
+        "mobilesdk_app_id": "1:278520099309:android:9b1ed2d2037b3b0899f7e4",
         "android_client_info": {
           "package_name": "th.ku.kueater"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCZHso_6_cFP8SsRJeUKX4w1IdK-S86ifU"
+          "current_key": "AIzaSyC5UnXoqDF1ugnC_LSbrdyauk0mXWNGlhE"
         }
       ],
       "services": {
